@@ -1,0 +1,56 @@
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\bin\Debug\KinectV2.exe.config
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\bin\Debug\KinectV2.exe
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\bin\Debug\KinectV2.pdb
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\bin\Debug\Microsoft.Kinect.dll
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\bin\Debug\Microsoft.Kinect.xml
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\obj\Debug\MainWindow.baml
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\obj\Debug\MainWindow.g.cs
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\obj\Debug\App.g.cs
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\obj\Debug\KinectV2.g.resources
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\obj\Debug\KinectV2.exe
+D:\K4W2-Book-master\C#(Managed)\08_Face\KinectV2-Face-08\KinectV2\obj\Debug\KinectV2.pdb
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\bin\Debug\KinectV2.exe.config
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\obj\Debug\KinectV2.exe
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\obj\Debug\KinectV2.pdb
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\bin\Debug\KinectV2.exe
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\bin\Debug\KinectV2.pdb
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\bin\Debug\Microsoft.Kinect.dll
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\bin\Debug\Microsoft.Kinect.xml
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\obj\Debug\MainWindow.baml
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\obj\Debug\App.g.cs
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\obj\Debug\KinectV2.g.resources
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\Head and Body20161006\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\KinectV2.exe.config
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\obj\Debug\KinectV2.exe
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\obj\Debug\KinectV2.pdb
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\KinectV2.exe
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\KinectV2.pdb
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\Microsoft.Kinect.dll
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\Microsoft.Kinect.xml
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\obj\Debug\MainWindow.baml
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\obj\Debug\App.g.cs
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\obj\Debug\KinectV2.g.resources
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\AForge.Video.dll
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\AForge.dll
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\AForge.Video.VFW.xml
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\AForge.Video.xml
+D:\Visual Studio 2015\Projects\Head and Body20161019\KinectV2\bin\Debug\AForge.xml

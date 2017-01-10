@@ -1,0 +1,19 @@
+﻿<Window x:Class="KinectV2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect for Windows SDK v2" SizeToContent="WidthAndHeight"
+        Closing="Window_Closing"
+        Loaded="Window_Loaded"
+        >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="ImageColor" Width="960" Height="540" Grid.ColumnSpan="2" />
+        <TextBlock x:Name="TBone" Margin="8,10,710,450" FontSize="16" Grid.ColumnSpan="2" />
+        <TextBlock x:Name="TBtwo" Margin="710,10,8,450" FontSize="16" Grid.ColumnSpan="2" />
+        <StackPanel Orientation="Vertical" Grid.ColumnSpan="2">
+        </StackPanel>
+    </Grid>
+</Window>
